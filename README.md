@@ -1,4 +1,4 @@
 # Pratical-demo
-This is my Git repository.
+This is my frist Git repository.
 <br>
 Author:- Abhishek Nimbalkar
